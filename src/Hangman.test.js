@@ -598,7 +598,7 @@ describe('System test ',() =>{
     const homepageTitle = div.querySelector('.navbar-brand');
     expect(homepageTitle.textContent).toContain('Hangman');
   });
-
+//
 })
 
 >>>>>>> master
