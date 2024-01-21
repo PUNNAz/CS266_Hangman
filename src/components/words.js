@@ -109,7 +109,7 @@ const COUNTRY_ARRAY = [
   "uruguay", "uzbekistan", "vanuatu", "venezuela", "vietnam", "yemen",
   "zambia", "zimbabwe"
 ];
-
+//
 
 
 function randomWordEasy(wordArray){
